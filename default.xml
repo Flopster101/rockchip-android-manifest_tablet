@@ -55,7 +55,7 @@
   <project path="device/rockchip/rk3288" name="TinkerBoard-Android/rockchip-android-device-rockchip-rk3288" />
   <project path="device/rockchip/rk3326" name="TinkerBoard-Android/rockchip-android-device-rockchip-rk3326" />
   <project path="device/rockchip/rk3368" name="TinkerBoard-Android/rockchip-android-device-rockchip-rk3368" />
-  <project path="device/rockchip/rk3368a" name="TinkerBoard-Android/rockchip-android-device-rockchip-rk3368a" />
+  <project path="device/rockchip/rk3368a" name="Flopster101/rockchip-android-device-rockchip-rk3368a" />
   <project path="device/rockchip/rk3399" name="TinkerBoard-Android/rockchip-android-device-rockchip-rk3399" />
   <project path="device/sample" name="TinkerBoard-Android/rockchip-android-device-sample" />
   <project path="docker_builder" name="TinkerBoard-Android/DevOps-docker_builder" />
